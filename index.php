@@ -15,10 +15,10 @@
     
     <?php
     
-    $test = "Влад";
+    $f = 5;
 
-    echo $test;
-    
+    echo $f;
+
     ?>
 
 </body>
