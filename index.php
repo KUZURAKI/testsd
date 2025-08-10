@@ -15,8 +15,10 @@
     
     <?php
     
-    echo "ебаный php";
+    $test = "Влад";
 
+    echo $test;
+    
     ?>
 
 </body>
